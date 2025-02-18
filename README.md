@@ -1,6 +1,6 @@
 ## Event Information System
 
-Welcome to my solution for the assignment Event Information System
+Welcome to the Event Information System
 To set up the project, please follow the following steps:
 
 - Create a local database for the project. The default name is event_info_db.
